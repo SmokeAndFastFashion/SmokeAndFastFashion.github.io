@@ -6,13 +6,13 @@ html, body {
 
 #logo {
     width: 1920px;
-    height: 400px;
+    height: 30%px;
     background-color: #252525;
     border-bottom: 2px solid white;
 }
 
 #img {
     width: 600px;
-    height: 400px;
+    height: 300px;
     margin-left: 35%;
 }
