@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color: #242424;
+}
+
+#navbar {
+    background-color: #373737;
+    width: 100%;
+    height: 8%;
+    border-bottom: 1px solid white;
+}
