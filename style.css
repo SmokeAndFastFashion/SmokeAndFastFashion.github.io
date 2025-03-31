@@ -33,6 +33,19 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+#datetime {
+    position: absolute;
+    z-index: 2;
+    text-align: left;
+    margin: auto auto auto 80%;
+    width: fit-content;
+    padding: 20px;
+    background-color: #1c4200;
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #main {
     display: block;
     width: 100%;
