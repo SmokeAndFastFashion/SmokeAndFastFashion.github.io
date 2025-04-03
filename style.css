@@ -103,6 +103,12 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     text-align: justify;
 }
+
+#main a {
+    text-decoration: none;
+    color: red;
+}
+
 #impressum {
     display: flex;
     background-color: #0A0A0A;
@@ -135,4 +141,8 @@ body {
     text-align: center;
     width: 33.33%;
     list-style-type: none;
+}
+
+#impcontact {
+    margin-top: 10%;
 }
