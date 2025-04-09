@@ -5,7 +5,7 @@ body {
     gap: 0px;
     margin: 0;
     height: 1080px;
-    width: 1920px;
+    width: fit-content;
     background-color: #252525;
 }
 
