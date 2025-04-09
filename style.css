@@ -4,7 +4,7 @@ body {
     display: inline;
     gap: 0px;
     margin: 0;
-    height: 1080px;
+    height: fit-content;
     width: fit-content;
     background-color: #252525;
 }
