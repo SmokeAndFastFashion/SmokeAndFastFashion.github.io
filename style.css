@@ -4,7 +4,7 @@ body {
     display: inline;
     gap: 0px;
     margin: 0;
-    height: 1080px;
+    height: fit-content;
     width: fit-content;
     background-color: #252525;
 }
@@ -116,6 +116,7 @@ body {
     width: 100%;
     height: fit-content;
     padding: 1% auto 1% 2%;
+    margin: auto auto 0px auto;
 }
 
 #impressum li {
