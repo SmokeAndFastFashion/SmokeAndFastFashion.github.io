@@ -116,6 +116,7 @@ body {
     width: 100%;
     height: fit-content;
     padding: 1% auto 1% 2%;
+    margin: auto auto 0px auto;
 }
 
 #impressum li {
