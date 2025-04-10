@@ -1,0 +1,10 @@
+        <h1>Geocaching</h1>
+        <p><b>Was ist das?</b><br>
+        Beim Geocaching handelt es sich um eine Art "Schatzsuche", bei der Spieler mit einer Handyapp einen Geocache orten können. 
+        Zu den Geocaches werden meist Rätsel integriert, um das Suchen spaßiger zu machen.</p>
+        <p><b>Was hat das mit unserem Projekt zu tun?</b><br>
+        Ein Großteil unseres Projekts ist das Ziel, permanente Geocaches in Zwickau zum Thema Nachhaltigkeit aufzubauen.
+        Wir wollen damit die Bevölkerung unserer Stadt auf eine Reise durch verschiedenste Umweltangelegenheiten führen und sie auf spielerischem Wege auf die Probleme von fehlender Nachhaltigkeit aufmerksam machen.</p>
+        <p><b>Wo befinden sich die Geocaches?</b><br>
+        Die Geocaches sind im Schwanenteichpark Zwickau und können mit der App "..." geortet werden.<br>
+        Weitere Hinweise dazu gibt es unter folgendem Link: / gibt es auf der App</p>
