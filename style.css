@@ -114,6 +114,10 @@ body {
     text-align: justify;
 }
 
+#main a {
+    color: white;
+}
+
 #kartenpin:link, #kartenpin:visited, #kartenpin:hover, #kartenpin:active {
     text-decoration: none;
     color: red;
